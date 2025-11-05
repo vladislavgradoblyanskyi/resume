@@ -1,3 +1,6 @@
+*{
+font-family: var(--font);
+}
 :root{
   --page-bg: #f5f7f9;
   --card-bg: #ffffff;
@@ -8,7 +11,7 @@
   --max-width: 1100px;
   --sidebar-w: 320px;
   --gutter: 56px;
-  --font: "Montserrat", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  --font: 'Times New Roman', Times, serif;
 }
 
 *{box-sizing:border-box}
